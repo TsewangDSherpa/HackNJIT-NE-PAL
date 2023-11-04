@@ -38,6 +38,8 @@ Thumbs.db
 # Environment variables file
 .env
 
+my_env
+
 # If you use TypeScript, you might want to exclude the compiled JavaScript files.
 # Uncomment the following line if you're using TypeScript and have a "dist" folder.
 # dist/
